@@ -89,7 +89,8 @@ background-color: white;
 
 .containerC {
     display: flex;
-    padding-left: 195px;
+    justify-content: center;
+    padding-left: 35px;
 }
 
 .box5, .box6, .box7, .box8 {
