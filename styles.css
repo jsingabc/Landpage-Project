@@ -1,1 +1,168 @@
 /* stylesheet */
+
+.rone {
+ height: 45vh;
+ background-color: #1F2937;
+ color: white;
+
+ display: flex;
+}
+
+.logo {
+    font-size: 24px;
+    font: #F9FAF8;
+    padding-left: 25%;
+    margin-top: 0px;
+}
+.containerA {
+    padding-left: 25%;
+}
+
+.hero {
+    width: 70%;
+    font-size: 48px;
+    font-weight: bolder;
+    font: #F9FAF8;
+}
+
+.firstp {
+    width: 75%;
+    font-size: 18px;
+    font: #1F2937;
+    margin-top: -30px;
+    margin-bottom: auto;
+    
+}
+
+button {
+    background-color: #3882F6;
+    color: white;
+    width: 100px;
+    padding: 5px;
+    border-radius: 12px;
+}
+
+.columnB {
+    padding-right: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.menu {
+    display: flex;
+    margin-bottom: 50px;
+    gap: 20px;
+
+}
+
+.placeholder {
+    text-align: center;
+    padding: 12%;
+    background-color: grey;
+    color: white;
+    height: 100px;
+    width: 350px;
+}
+
+.rtwo {
+height: 50vh;
+background-color: white;
+}
+
+.some {
+    text-align: center;
+}
+
+.containerB {
+    display: flex;
+    justify-content: center;
+}
+
+.box1, .box2, .box3, .box4 {
+    border: 5px solid #3882F6;
+    padding: 50px;
+    width: 50px;
+    margin: 10px;
+    height: 40px;
+    border-radius: 12px;
+}
+
+.containerC {
+    display: flex;
+    padding-left: 195px;
+}
+
+.box5, .box6, .box7, .box8 {
+    width: 145px;
+    text-align: center;
+    padding-right: 4%; 
+}
+
+.rthree {
+    height: 25vh;
+    background-color: #E5E7EB;
+}
+
+.containerD {
+    display: flex;
+    justify-content: center;
+}
+.speech {
+    font-style: oblique;
+    font: #1F2937;
+    max-width: 370px;
+    margin-top: 50px;
+}
+.cite {
+    display: flex;
+    justify-content: center;
+    padding-left: 130px;
+    font-weight: bolder;
+    font: solid black;
+}
+
+.rfour {
+    height: 25vh;
+    background-color: white;
+}
+
+.containerE {
+    align-items: center;
+    background-color: #3882F6;
+    padding: 30px;
+    margin: 80px 150px;
+
+
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+
+
+
+.call {
+    color: white;
+    font-weight: bolder;
+    margin-bottom: 0px;
+}
+
+.calltext {
+    color: #E5E7EB;
+    margin-top: -20px;
+}
+
+.lastbutton {
+    border: 1px solid white;
+    width: 100px;
+    padding: 5px;
+}
+
+.rfive {
+    height: 5vh;
+    background-color: #1F2937;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
